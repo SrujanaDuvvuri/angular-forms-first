@@ -1,0 +1,23 @@
+Angular Forms
+--------------
+The Angular forms are used to collect the data from Users
+
+Somethings forms are expected to do 
+
+1. Initialize the form fields
+2. capture the data from users
+3. Track the changes
+4. validate the inputs
+5. display helpful errors to the users
+
+Types of Forms
+---------------
+Template Driven Forms
+Reactive Forms 
+
+Template Driven Forms
+---------------------
+1. There are simple forms which can be used to devlop webforms. 
+2. These are called template driven as everything that we are going to use in the application 
+   is defined in the template.
+
